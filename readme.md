@@ -7,5 +7,6 @@
 * comando git push
 * fazendo novamente
 * comando git pull
+* comando git fetch
 
 
