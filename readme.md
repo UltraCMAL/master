@@ -4,5 +4,6 @@
 
 ## fiz outras mudanças
 ## fazendo novas mudanças
+* comando git push
 
 
