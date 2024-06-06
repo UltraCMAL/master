@@ -6,5 +6,6 @@
 ## fazendo novas mudanças
 * comando git push
 * fazendo novamente
+* comando git pull
 
 
